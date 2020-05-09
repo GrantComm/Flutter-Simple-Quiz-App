@@ -4,4 +4,4 @@ A Simple Quiz App built using Flutter.
 
 ## Quick Demo
 
-<img src=".gif" width=200><br>
+<img src="simple_quiz_app.gif" width=200><br>
